@@ -29,9 +29,9 @@ Exception Handling
 <p>Figure 2: Try...Except block for exception handling.  Image from RealPython.com.</p>
 
 
-<p>
-  
-</p>
+<p>In my demo script, I use a simple math operation to demonstrate exception handling with try and except blocks.  In the try clause, I use the operation to dividing the value of 100 by another value to generate exceptions. Then use the except clause to inform the user that an exception has occur and provide feedback on what that exception was before moving on and continue running the rest of the script.  The demo runs through creating a couple of different exceptions that can occur while performing the division operation on purpose and catches them. In my try and except block, I have a few except clause to catch a few of the more common exceptions like dividing by zero or trying to divide different data types and a general catch all one to handle all other type of exceptions.  (Figure 3)</p>
+
+
 
 text here
 
