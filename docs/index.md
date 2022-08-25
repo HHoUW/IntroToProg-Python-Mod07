@@ -1,5 +1,12 @@
+*Foundations Of Programming: Python*  
+*Hien Ho*  
+*Assignment07*  
+*08-24-2022*  
+
+<br>
+
 # Exception Handling and Pickling
-*HHo, 08-24-2022*
+
 
 <br>
 
